@@ -1,11 +1,11 @@
-﻿---
+---
 
 layout: post  
-title: 使用token实现在有效期内APP自动登录功能
-date: 2016-7-19 17:20:35
+title: 使用token实现在有效期内APP自动登录功能  
+date: 2016-7-19 17:20:35  
 tags: [程序设计]  
-category: 学习笔记
-comments: true
+category: 学习笔记  
+comments: true  
 
 ---
 
