@@ -1,0 +1,14 @@
+//博客上传到github一定要在blog目录执行
+npm install hexo-deployer-git --save
+
+//如果是使用jade编译的主题需要执行
+npm install hexo-renderer-jade --save
+
+//如果需要添加rss订阅需要执行
+npm install hexo-generator-feed 
+
+//如果需要网站地图需要执行
+npm install hexo-generator-sitemap
+
+
+注：安装了如果没有效果需要在哎`package.json`文件里面加上插件
