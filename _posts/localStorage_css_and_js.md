@@ -1,4 +1,4 @@
-﻿---
+---
 
 layout: post  
 title: 将静态文件缓存到html5的localStorage，给网站加速  
