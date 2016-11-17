@@ -1,8 +1,8 @@
 ---
 
 layout: post  
-title: Java多态机制的理解  
-date: 2015-10-25 12:30:01  
+title: Java三大特性之多态   
+date: 2014-10-25 12:30:01  
 tags: [java]  
 category: 后台开发  
 comments: true
