@@ -11,6 +11,9 @@ comments: true
 
 Maupassant是Cho为typecho平台设计的一套响应式模板，其简洁的风格让很多人喜爱，在没有被扩展其他功能的情况下整个模板本身小巧到只有几十KB，因此访问速度也可观
 
+![Hexo Maupassant博客主题](/image/hexo_theme_maupassant_share2.png)
+<!-- more -->
+
 之前一直用的是php博客系统，但奈何我发现近些时间不是很喜欢折腾博客了，只想有事写两篇，没事放着生蛋，就想着换到github上来在保留绝对控制权的情况下让github托管着，在jekyll和hexo比较中看到了hexo主题中被人移植到hexo的Maupassant模板，感觉很适合我，于是借鉴cho大神最新版的Maupassant主题，结合其他博主（例：[屠城博客](https://www.haomwei.com/technology/maupassant-hexo.html)）的一些扩展上进行了移植与修改
 
 由于自己特爱简洁，所以移植了最基本的功能，加入了少量的博客可能用得着的其他小扩展，有用得着的朋友可以进入github下载  
