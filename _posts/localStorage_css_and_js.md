@@ -2,7 +2,7 @@
 
 layout: post  
 title: 将静态文件缓存到html5的localStorage，给网站加速  
-date: 2014-07-30 11:06:00
+date: 2016-07-30 11:06:00
 tags: [javascript,html5]  
 category: 前端开发  
 comments: true

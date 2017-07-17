@@ -1,6 +1,6 @@
 fancybox: true ## 是否启用Fancybox图片灯箱效果 true/false.
-duoshuo: sevennight ## 多说用户名,为空则不使用
-disqus:  ## disqus用户名，为空则不使用
+duoshuo: ## 多说用户名,为空则不使用
+disqus: sevennight ## disqus用户名，为空则不使用
 google_search: true ## 使用google搜索引擎, true/false.
 tinysou: ## 微搜索 key
 google_analytics: ## Google统计ID
@@ -31,12 +31,12 @@ widgets:
 
 ## 侧边栏链接
 links: 
-  - title: 千盒资源
-    url: http://www.qianhe100.com
+  - title: 千盒导航
+    url: http://daohang.qianhe100.com
 
 ## 静态文件目录
 js: js
 css: css
 
 ## 主题版本
-version: 0.0.0
+version: 0.0.1

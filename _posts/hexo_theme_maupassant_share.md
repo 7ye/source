@@ -24,7 +24,6 @@ Maupassant是Cho为typecho平台设计的一套响应式模板，其简洁的风
 
 ```
 fancybox: true ## 是否启用Fancybox图片灯箱效果 true/false.
-duoshuo: sevennight ## 多说用户名,为空则不使用
 disqus:  ## disqus用户名，为空则不使用
 google_search: true ## 使用google搜索引擎, true/false.
 baidu_search: ## 使用百度搜索引擎, true/false.
@@ -62,12 +61,11 @@ js: js
 css: css
 
 ## 主题版本
-version: 0.0.0
+version: 0.0.1
 
 ```
 
  - fancybox：是否启用[Fancybox](http://fancyapps.com/fancybox/)图片灯箱效果
- - duoshuo：[多说评论](http://duoshuo.com/) shortname
  - disqus：[Disqus评论](https://disqus.com/) shortname
  - google_search：默认使用Google搜索引擎
  - baidu_search：若想使用百度搜索，将其设定为`true`
