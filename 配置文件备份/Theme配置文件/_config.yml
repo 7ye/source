@@ -18,8 +18,6 @@ menu:
     directory: about/
   - page: guestbook
     directory: guestbook/
-  - page: rss
-    directory: atom.xml
 
 ## 侧边栏小工具设置: search, category, tag, recent_posts, links
 widgets:
@@ -31,8 +29,8 @@ widgets:
 
 ## 侧边栏链接
 links: 
-  - title: 千盒导航
-    url: http://daohang.qianhe100.com
+  - title: 拾果收藏夹
+    url: https://10coo.com
 
 ## 静态文件目录
 js: js
