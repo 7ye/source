@@ -32,10 +32,9 @@ yum install openvpn easy-rsa
 ```
 //注意easy-rsa的版本号，你的有可能不一样
 cp /usr/share/doc/easy-rsa-3.0.7/vars.example /etc/openvpn/easy-rsa/vars
-cp -r /usr
+cp -r /usr/share/easy-rsa/3.0.7/* /etc/openvpn/easy-rsa/
 ```
 
-/share/easy-rsa/3.0.7/* /etc/openvpn/easy-rsa/
 
 编辑vars文件，修改如下选项（此步骤为可选操作，使用默认的也是可以的）
 
